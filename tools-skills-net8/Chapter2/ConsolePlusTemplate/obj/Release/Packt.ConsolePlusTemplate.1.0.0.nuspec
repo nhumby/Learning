@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Packt.ConsolePlusTemplate</id>
+    <version>1.0.0</version>
+    <title>Console App (Packt)</title>
+    <authors>Mark J. Price,Packt Publishing</authors>
+    <readme>README.md</readme>
+    <projectUrl>https://www.github.com/markjprice/tools-skills-net8</projectUrl>
+    <description>A console app with extra imported types and a method to configure the culture.</description>
+    <tags>dotnet-new templates packt console</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" commit="7f8e02713e38812a2d91747d0bb09064ca7df349" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/content/ConsolePlusProject/.template.config/template.json" target="content/content/ConsolePlusProject/.template.config/template.json" />
+    <file src="/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/content/ConsolePlusProject/ConsolePlusProject.csproj" target="content/content/ConsolePlusProject/ConsolePlusProject.csproj" />
+    <file src="/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/content/ConsolePlusProject/Program.cs" target="content/content/ConsolePlusProject/Program.cs" />
+    <file src="/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/content/ConsolePlusProject/Program.Functions.cs" target="content/content/ConsolePlusProject/Program.Functions.cs" />
+    <file src="/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/README.md" target="README.md" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/bin/Debug/net8.0/ConsolePlusProject
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/bin/Debug/net8.0/ConsolePlusProject.deps.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/bin/Debug/net8.0/ConsolePlusProject.runtimeconfig.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/bin/Debug/net8.0/ConsolePlusProject.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/bin/Debug/net8.0/ConsolePlusProject.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.AssemblyInfoInputs.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.AssemblyInfo.cs
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.csproj.CoreCompileInputs.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.sourcelink.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/refint/ConsolePlusProject.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ConsolePlusProject.genruntimeconfig.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/TemplateTest/obj/Debug/net8.0/ref/ConsolePlusProject.dll
