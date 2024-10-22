@@ -1,0 +1,12 @@
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/bin/Debug/net8.0/ConsolePlusTemplate.deps.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/bin/Debug/net8.0/ConsolePlusTemplate.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/bin/Debug/net8.0/ConsolePlusTemplate.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.AssemblyInfoInputs.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.AssemblyInfo.cs
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.csproj.CoreCompileInputs.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.sourcelink.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/refint/ConsolePlusTemplate.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ConsolePlusTemplate.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter2/ConsolePlusTemplate/obj/Debug/net8.0/ref/ConsolePlusTemplate.dll
