@@ -1,0 +1,3 @@
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/bin/Release/net8.0/linux-arm64/publish/EnvironmentLib.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/bin/Release/net8.0/linux-arm64/publish/EnvironmentLib.deps.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/bin/Release/net8.0/linux-arm64/publish/EnvironmentLib.pdb

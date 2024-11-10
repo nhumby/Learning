@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIoQlrNR///x49dAdoEQa7X4R4G8/CYqV4Xj1Wrw2rxyQ/SQrsl1RalvP8fir6JBAzxrQl4C6suwgrCGiOJQPA==",
+  "success": true,
+  "projectFilePath": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/AboutMyEnvironment.csproj",
+  "expectedPackageFiles": [
+    "/home/neil/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512",
+    "/home/neil/.nuget/packages/microsoft.netcore.app.host.linux-arm64/8.0.10/microsoft.netcore.app.host.linux-arm64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

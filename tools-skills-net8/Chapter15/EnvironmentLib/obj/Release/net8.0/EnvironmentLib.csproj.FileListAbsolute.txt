@@ -1,0 +1,12 @@
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/bin/Release/net8.0/EnvironmentLib.deps.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/bin/Release/net8.0/EnvironmentLib.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/bin/Release/net8.0/EnvironmentLib.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.AssemblyInfoInputs.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.AssemblyInfo.cs
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.csproj.CoreCompileInputs.cache
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.sourcelink.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/refint/EnvironmentLib.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/EnvironmentLib.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/Release/net8.0/ref/EnvironmentLib.dll
