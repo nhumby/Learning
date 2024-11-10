@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/Northwind.Mvc/Northwind.Mvc.csproj": {}
+  },
+  "projects": {
+    "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/EnvironmentLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/EnvironmentLib.csproj",
+        "projectName": "EnvironmentLib",
+        "projectPath": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/EnvironmentLib.csproj",
+        "packagesPath": "/home/neil/.nuget/packages/",
+        "outputPath": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/neil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm64": {
+          "#import": []
+        }
+      }
+    },
+    "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/Northwind.Mvc/Northwind.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/Northwind.Mvc/Northwind.Mvc.csproj",
+        "projectName": "Northwind.Mvc",
+        "projectPath": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/Northwind.Mvc/Northwind.Mvc.csproj",
+        "packagesPath": "/home/neil/.nuget/packages/",
+        "outputPath": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/Northwind.Mvc/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/neil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/EnvironmentLib.csproj": {
+                "projectPath": "/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/EnvironmentLib/EnvironmentLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-arm64",
+              "version": "[8.0.10, 8.0.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-arm64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

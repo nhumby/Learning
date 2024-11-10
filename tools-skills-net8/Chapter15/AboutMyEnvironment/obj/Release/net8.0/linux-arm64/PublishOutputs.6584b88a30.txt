@@ -1,0 +1,8 @@
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/AboutMyEnvironment
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/AboutMyEnvironment.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/AboutMyEnvironment.deps.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/AboutMyEnvironment.runtimeconfig.json
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/AboutMyEnvironment.pdb
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/Spectre.Console.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/EnvironmentLib.dll
+/home/neil/code/projects/git/Learning/tools-skills-net8/Chapter15/AboutMyEnvironment/bin/Release/net8.0/linux-arm64/publish/EnvironmentLib.pdb

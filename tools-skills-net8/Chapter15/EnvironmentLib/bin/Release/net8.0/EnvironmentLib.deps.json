@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EnvironmentLib/1.0.0": {
+        "runtime": {
+          "EnvironmentLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnvironmentLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
